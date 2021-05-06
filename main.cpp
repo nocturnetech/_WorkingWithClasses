@@ -109,6 +109,7 @@ cout<<"Please enter the name of the city"<<endl;
         else theEnd++;
     }
     if (theEnd >=10) cityError();
+    theEnd=0;
 option=2;
 personNumber=1;
 break;
@@ -219,6 +220,7 @@ break;
 }
 }
 while (menu !=6);
+
 return 0;
 }
 
