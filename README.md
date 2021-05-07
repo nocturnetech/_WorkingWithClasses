@@ -1,4 +1,4 @@
-#_WorkingWithClasses
+#WorkingWithClasses
 
 This is a project that outputs 10 different persons information to the console and let's you perform 5 different manipulations:
 
